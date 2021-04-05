@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_16747_user_manag.app.user.management</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>x_16747_user_manag.app.user.management</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-05 07:42:03</sys_created_on>
+        <sys_id>a5e6420a2f536010ccaafd1df699b66e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_16747_user_manag.app.user.management</sys_name>
+        <sys_package display_value="User Management" source="x_16747_user_manag">a0968a8e2f176010ccaafd1df699b670</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="User Management">a0968a8e2f176010ccaafd1df699b670</sys_scope>
+        <sys_update_name>sys_user_role_a5e6420a2f536010ccaafd1df699b66e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-05 07:42:03</sys_updated_on>
+    </sys_user_role>
+</record_update>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-05 07:46:26</sys_created_on>
+        <sys_id>f5e70a022f576010ccaafd1df699b670</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_16747_user_manag_user_management.x_16747_user_manag.app.user.management</sys_name>
+        <sys_package display_value="User Management" source="x_16747_user_manag">a0968a8e2f176010ccaafd1df699b670</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="User Management">a0968a8e2f176010ccaafd1df699b670</sys_scope>
+        <sys_security_acl display_value="x_16747_user_manag_user_management">75e70a022f576010ccaafd1df699b66c</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_f5e70a022f576010ccaafd1df699b670</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-05 07:46:26</sys_updated_on>
+        <sys_user_role display_value="x_16747_user_manag.app.user.management" name="x_16747_user_manag.app.user.management">a5e6420a2f536010ccaafd1df699b66e</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

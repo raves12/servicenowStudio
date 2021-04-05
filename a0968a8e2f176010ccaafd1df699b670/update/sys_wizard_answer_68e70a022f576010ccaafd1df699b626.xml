@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>New User Management</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>User Management</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">6ff033c4c923101091f9f06464832717</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-04-05 07:46:21</sys_created_on>
+        <sys_id>68e70a022f576010ccaafd1df699b626</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>User Management</sys_name>
+        <sys_package display_value="User Management" source="x_16747_user_manag">a0968a8e2f176010ccaafd1df699b670</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="User Management">a0968a8e2f176010ccaafd1df699b670</sys_scope>
+        <sys_update_name>sys_wizard_answer_68e70a022f576010ccaafd1df699b626</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-04-05 07:46:21</sys_updated_on>
+        <table/>
+        <target_url>x_16747_user_manag_user_management.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

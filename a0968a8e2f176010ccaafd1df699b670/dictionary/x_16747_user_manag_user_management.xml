@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="User Management" max_length="40" name="x_16747_user_manag_user_management" type="collection">
+        <element attributes="encode_utf8=false" label="Role" max_length="32" name="role" reference="sys_user_has_role" type="reference"/>
+        <element attributes="encode_utf8=false" label="User" max_length="32" name="user" reference="sys_user" type="reference"/>
+    </element>
+</database>
